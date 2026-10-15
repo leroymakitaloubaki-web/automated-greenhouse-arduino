@@ -152,3 +152,26 @@ The project report documents:
 
 - Temperature sensor measurements
 - Humidity sensor calibration
+## 📸 Project Gallery
+
+### Greenhouse Prototype
+![Greenhouse Prototype](IMAGES/greenhouse_prototype.png)
+
+### System Control Flowchart
+![Control Flowchart](IMAGES/control_flowchart.png)
+
+### Temperature Regulation — On/Off Control
+![On-Off Temperature Control](IMAGES/on_off_temperature_control.png)
+
+### Temperature Regulation — Proportional PWM Control
+![Proportional PWM Control](IMAGES/proportional_pwm_control.png)
+
+### Humidity Control Demonstration
+
+**Humidity Above Threshold**
+![Humidity Above Threshold](IMAGES/humidity_above_threshold.png)
+
+**Humidity Below Threshold**
+![Humidity Below Threshold](IMAGES/humidity_below_threshold.png)
+
+*The actuator control was verified electrically. Actual water irrigation was not demonstrated.*
